@@ -141,6 +141,7 @@ env.bak/
 venv.bak/
 .vscode/
 
+db.sqlite3
 # Spyder project settings
 .spyderproject
 .spyproject
