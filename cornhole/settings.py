@@ -56,7 +56,7 @@ ROOT_URLCONF = 'cornhole.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [BASE_DIR / 'templates'],
+        'DIRS': [BASE_DIR / 'layout'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
